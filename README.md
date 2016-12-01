@@ -1,2 +1,2 @@
 #README
-This repository contains scripts to convert you **.csv** data into **.pickle** and viceversa.
+This repository contains scripts to convert your **.csv** data into **.pickle** and viceversa.
